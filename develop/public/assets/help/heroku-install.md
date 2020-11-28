@@ -4,8 +4,6 @@
 
 * Download the [installer](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) for macOS.
 
-![Heroku Download](assets/heroku_download.png)
-
 * Follow the prompts to complete the installation.
 
 * Open your Terminal.
@@ -22,8 +20,6 @@
 * Sign up for a free [Heroku](https://signup.heroku.com/) account first.
 
 * Download the [64-bit installer](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) for Windows.
-
-![Heroku Download](assets/heroku_download.png)
 
 * Follow the prompts to complete the installation.
 
