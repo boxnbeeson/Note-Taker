@@ -20,7 +20,7 @@
   <br>
   Name: Jacob Beeson
   <br>
-  Github Link: <jpbeeson>
+  Github Link: <https://github.com/jpbeeson>
   <br>
   Email: <beeson.jp@gmail.com>
   ## <a name="credientials"></a>Credientials
@@ -42,7 +42,7 @@
   ## <a name="license"></a>License
   MIT License
 
-  Copyright (c) [year] [fullname]
+  Copyright (c) [2020] [JacobBeeson]
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
